@@ -89,7 +89,7 @@ def ColerPath (parcours, path):
     return labyrinthe
 
 # Dimensions de la grille:
-LARGEUR = 18
+LARGEUR = 16
 HAUTEUR = 16
 
 def layGenerator(LARGEUR,HAUTEUR):
